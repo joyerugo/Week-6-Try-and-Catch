@@ -1,7 +1,8 @@
 package org.example;
+
 import java.util.Scanner;
 
-public class UsingTryCatch {
+public class TryExample {
     public static void main(String[] args) {
 
         System.out.println("Please enter a number between 0 - 9:");
@@ -22,6 +23,6 @@ public class UsingTryCatch {
         }
 
 
-        }
     }
 }
+
